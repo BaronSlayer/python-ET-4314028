@@ -1,0 +1,1 @@
+print(f'__init__ name is {__name__}')
